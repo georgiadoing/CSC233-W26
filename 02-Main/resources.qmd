@@ -9,7 +9,8 @@ title: Resources
 
 * <https://runestone.academy/runestone/default/user/register>
 * your Union College email 
-*  unioncollege_py4e-int_fall25 as the course name
+*  unioncollege_httlads_winter26 as the course name
+* for review, you may also use the Python course: unioncollege_py4e-int_winter26_da
 
 ## Google Colab Pro
 
