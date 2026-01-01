@@ -2,14 +2,14 @@ project:
     type: tufte
 book:
   open-graph: true
-  site-url: https://georgiadoing.github.io/tufte-quarto/
-  repo-url: https://github.com/georgiadoing/tufte-quarto/
+  site-url: https://georgiadoing.github.io/CSC233-W26/
+  repo-url: https://github.com/georgiadoing/CSC233-W26/
   repo-actions: [edit, issue]
   title: |
-    Course: CSC:XXX Course Title\
+    Course: CSC233: Intro to Data Analytics\
     Documentation
-  title-short: CSCXXX # title-short is used in the pdf head
-  output-file: CSCXXXNotes # outputs: docs/TufteStyledBook.pdf
+  title-short: CSC233 # title-short is used in the pdf head
+  output-file: CSC233otes # outputs: docs/TufteStyledBook.pdf
   author: doingg@union.edu
   publisher: self
   date-format: MMMM, YYYY
@@ -22,21 +22,11 @@ book:
     - 02-Main/grading.qmd
     - part: Assignments
       chapters:
-        - 03-Assignments/final_project.qmd
+        - 03-Assignments/hw01.qmd
     - part: Weekly Notes
       chapters:
         - 04-Notes/week1.qmd
-        - 04-Notes/week2.qmd
-        - 04-Notes/week3.qmd
-        - 04-Notes/week4.qmd
-        - 04-Notes/week5.qmd
-        - 04-Notes/week6.qmd
-        - 04-Notes/week7.qmd
-        - 04-Notes/week8.qmd
-        - 04-Notes/week9.qmd
-        - 04-Notes/week10.qmd
     - part: about.qmd
       chapters:
         - 03-Back/references.qmd
-        - 03-Back/colophon.qmd
 bibliography: references.bib

@@ -6,18 +6,21 @@ Weekly Schedule
 
 ## Schedule
 
-| Week | Topic                     | Assignment |
-|-----------|:-------------------------|:-------------------|
-| 1     | topic...     | assignment... |
-| 2     | topic...     | assignment... |
-| 3     | topic...     | assignment... |
-| 4     | topic...     | assignment... |
-| 5     | topic...     | assignment... |
-| 6     | topic...     | assignment... |
-| 7     | topic...     | assignment... |
-| 8     | topic...     | assignment... |
-| 9     | topic...     | assignment... |
-| 10     | topic...     | assignment... |
+
+| W | TOPIC                                                        | Due                              | Runestone |
+| ---- | -------------------------------------------------- | ---------------------- |----------:|
+| 1    | Introduction to Data Analytics          | Introductory Survey              |
+| 2    | Using Descriptive Statistics to Talk About Data        | HW 0                             |
+| 3    |	Python Tools for Data Analytics                               | HW 1                           |
+| 4    | PANDAS for Exploratory Data Analysis                        | HW 2   | 
+| 5    | Collecting Data from the Web                                | HW 3          |
+| 6    | Data Wrangling and Cleaning          | HW 4      |
+| 7    | Merging, selecting and transforming data                                      | HW 5        |
+| 8    | Using Simple Machine Learning Methods to Explore Data                            | HW 6, Midterm Exam  | 
+| 9    | Evaluating performance                                         | Project Draft          |
+| 10   | Project Presentation             | Final Project & Presentation |
+|      |                                                                 |                                  |
+
 
 
 

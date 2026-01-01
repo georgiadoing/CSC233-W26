@@ -9,10 +9,9 @@ title: Grading
 
 | Course Element | Grade Point Contribution       | Notes |
 |-----------|:-------------------------|:-------------------|
-| Final Exam     | X%     | written |
-| Midterm Exam     | X%     | written |
-| Project     | X%     | written |
-| Engagement     | X%     | written |
+| Problem Sets    | 50%     | coding |
+| Midterm Exam     | 25%     | written |
+| Final Project     | 25%     |  |
 |      |      |  |
 |   total   |  100%    |  |
 

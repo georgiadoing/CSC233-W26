@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Course: CSC:XXX Course Title\nDocumentation",
+    "title": "Course: CSC233: Intro to Data Analytics\nDocumentation",
     "section": "",
-    "text": "Welcome\nThe course website for CSCXXX, part of the Union College CS curriculum. Here you can find our wekkly schedule, assignmnets and resources.",
+    "text": "Welcome\nThe course website for CSC233, part of the Union College CS curriculum. Here you can find our wekkly schedule, assignmnets and resources.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Home</span>"
     ]
@@ -12,9 +12,9 @@
   {
     "objectID": "index.html#announcements",
     "href": "index.html#announcements",
-    "title": "Course: CSC:XXX Course Title\nDocumentation",
+    "title": "Course: CSC233: Intro to Data Analytics\nDocumentation",
     "section": "Announcements",
-    "text": "Announcements\n\nUpcoming due dates\nNext assignments is due …\n\n\nOffice Hours",
+    "text": "Announcements\n\nUpcoming due dates\nNext assignments is due …\n\n\nOffice Hours\n\nStudent/Office Hours:\n\nSteinmetz 108B\nWednesday 2:00 pm - 3:30 pm\nThursday 4:00 pm - 5:30 pm\nsubject to change, check course website for most up-tp-date schedule\ndrop-in or schedule a 15 minute slot: https://calendar.app.google/8bus6pfDvyphR9ar5\nby appointment for another time or over zoom",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Home</span>"
     ]
@@ -22,9 +22,9 @@
   {
     "objectID": "index.html#course-description",
     "href": "index.html#course-description",
-    "title": "Course: CSC:XXX Course Title\nDocumentation",
+    "title": "Course: CSC233: Intro to Data Analytics\nDocumentation",
     "section": "Course Description",
-    "text": "Course Description",
+    "text": "Course Description\nData analytics, the process of analyzing, revealing, interpreting and visualizing information concealed inside big data is revolutionizing daily life, as used by companies such as Amazon, Google and Facebook, for the diagnosis of medical conditions or the way medical claims are handled, for investment strategies and real estate pricing, and in academia, with the analysis of historical texts, understanding the deliberations of the Supreme Court or the European Commission, or processing large amounts of genomics data.\nIn this class, students will be introduced to techniques to acquire data from the web, manipulate and pre-process data into manageable forms, perform analyses from a descriptive and predictive standpoint, and learn the basics of visualization of the result, all with a focus on storytelling through data, enhancing data literacy.\nIn this course you will use the Python programming language to scrape web data, prepare data for analysis, analyze to produce explainable results, and visualize those results. Throughout we will discuss the pitfalls, ethics and challenges of working with data. A 1-page schedule-at-a-glance is included at the end of the syllabus.\nThis course requires the pre-approval of the department. For more information, please visit: https://union.edu/advising-registration/pre-approval.",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Home</span>"
     ]
@@ -44,7 +44,7 @@
     "href": "02-Main/schedule.html#schedule",
     "title": "Schedule",
     "section": "",
-    "text": "Week\nTopic\nAssignment\n\n\n\n\n1\ntopic…\nassignment…\n\n\n2\ntopic…\nassignment…\n\n\n3\ntopic…\nassignment…\n\n\n4\ntopic…\nassignment…\n\n\n5\ntopic…\nassignment…\n\n\n6\ntopic…\nassignment…\n\n\n7\ntopic…\nassignment…\n\n\n8\ntopic…\nassignment…\n\n\n9\ntopic…\nassignment…\n\n\n10\ntopic…\nassignment…",
+    "text": "W\nTOPIC\nDue\nRunestone\n\n\n\n\n1\nIntroduction to Data Analytics\nIntroductory Survey\n\n\n\n2\nUsing Descriptive Statistics to Talk About Data\nHW 0\n\n\n\n3\nPython Tools for Data Analytics\nHW 1\n\n\n\n4\nPANDAS for Exploratory Data Analysis\nHW 2\n\n\n\n5\nCollecting Data from the Web\nHW 3\n\n\n\n6\nData Wrangling and Cleaning\nHW 4\n\n\n\n7\nMerging, selecting and transforming data\nHW 5\n\n\n\n8\nUsing Simple Machine Learning Methods to Explore Data\nHW 6, Midterm Exam\n\n\n\n9\nEvaluating performance\nProject Draft\n\n\n\n10\nProject Presentation\nFinal Project & Presentation",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
     ]
@@ -64,7 +64,7 @@
     "href": "02-Main/grading.html",
     "title": "Grading",
     "section": "",
-    "text": "Grading Scheme\n\n\nCourse Element\nGrade Point Contribution\nNotes\n\n\n\n\nFinal Exam\nX%\nwritten\n\n\nMidterm Exam\nX%\nwritten\n\n\nProject\nX%\nwritten\n\n\nEngagement\nX%\nwritten\n\n\n\n\n\n\n\ntotal\n100%\n\n\n\n\n\n\nLetter Grade Scale\n\n\nLetter Grade\nPercent range\n\n\n\n\nA\n93 - 100\n\n\nA-\n90 - 92\n\n\nB+\n87 - 89\n\n\nB\n83 - 86\n\n\nB-\n80 - 82\n\n\nC+\n77 - 79\n\n\nC\n73 - 76\n\n\nC-\n70 - 72\n\n\nD\n60 - 69\n\n\nF\n0 - 59",
+    "text": "Grading Scheme\n\n\nCourse Element\nGrade Point Contribution\nNotes\n\n\n\n\nProblem Sets\n50%\ncoding\n\n\nMidterm Exam\n25%\nwritten\n\n\nFinal Project\n25%\n\n\n\n\n\n\n\n\ntotal\n100%\n\n\n\n\n\n\nLetter Grade Scale\n\n\nLetter Grade\nPercent range\n\n\n\n\nA\n93 - 100\n\n\nA-\n90 - 92\n\n\nB+\n87 - 89\n\n\nB\n83 - 86\n\n\nB-\n80 - 82\n\n\nC+\n77 - 79\n\n\nC\n73 - 76\n\n\nC-\n70 - 72\n\n\nD\n60 - 69\n\n\nF\n0 - 59",
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Grading</span>"
     ]
@@ -78,6 +78,47 @@
     "crumbs": [
       "About",
       "Colophon"
+    ]
+  },
+  {
+    "objectID": "02-Main/resources.html",
+    "href": "02-Main/resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Runestone (Online Textbook)",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Resources</span>"
+    ]
+  },
+  {
+    "objectID": "02-Main/resources.html#runestone-online-textbook",
+    "href": "02-Main/resources.html#runestone-online-textbook",
+    "title": "Resources",
+    "section": "",
+    "text": "https://runestone.academy/runestone/default/user/register\nyour Union College email\nunioncollege_py4e-int_fall25 as the course name",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Resources</span>"
+    ]
+  },
+  {
+    "objectID": "02-Main/resources.html#google-colab-pro",
+    "href": "02-Main/resources.html#google-colab-pro",
+    "title": "Resources",
+    "section": "Google Colab Pro",
+    "text": "Google Colab Pro\n\nPro account sign-up: https://colab.research.google.com/signup\nUse your Union email",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Resources</span>"
+    ]
+  },
+  {
+    "objectID": "03-Assignments/hw01.html",
+    "href": "03-Assignments/hw01.html",
+    "title": "HW01",
+    "section": "",
+    "text": "https://drive.google.com/file/d/1Ih-HblyS0zAduHUlQfBw4VoeCRx1jyNt/view?usp=sharing",
+    "crumbs": [
+      "Assignments",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>HW01</span>"
     ]
   }
 ]

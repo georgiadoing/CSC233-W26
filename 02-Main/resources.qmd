@@ -5,3 +5,13 @@ title: Resources
 
 
 
+## Runestone (Online Textbook)
+
+* <https://runestone.academy/runestone/default/user/register>
+* your Union College email 
+*  unioncollege_py4e-int_fall25 as the course name
+
+## Google Colab Pro
+
+* Pro account sign-up: <https://colab.research.google.com/signup>
+* Use your Union email
