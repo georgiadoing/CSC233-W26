@@ -44,7 +44,7 @@
     "href": "02-Main/schedule.html#schedule",
     "title": "Schedule",
     "section": "",
-    "text": "W\nTOPIC\nDue\nRunestone\n\n\n\n\n1\nIntroduction to Data Analytics\nIntroductory Survey\n\n\n\n2\nUsing Descriptive Statistics to Talk About Data\nHW 0\n\n\n\n3\nPython Tools for Data Analytics\nHW 1\n\n\n\n4\nPANDAS for Exploratory Data Analysis\nHW 2\n\n\n\n5\nCollecting Data from the Web\nHW 3\n\n\n\n6\nData Wrangling and Cleaning\nHW 4\n\n\n\n7\nMerging, selecting and transforming data\nHW 5\n\n\n\n8\nUsing Simple Machine Learning Methods to Explore Data\nHW 6, Midterm Exam\n\n\n\n9\nEvaluating performance\nProject Draft\n\n\n\n10\nProject Presentation\nFinal Project & Presentation",
+    "text": "W\nTOPIC\nDue\nRunestone\n\n\n\n\n1\nIntroduction to Data Analytics\nIntroductory Survey\nhttlads ch. 1 & 4\n\n\n2\nUsing Descriptive Statistics to Talk About Data\nHW 0\n\n\n\n3\nPython Tools for Data Analytics\nHW 1\n\n\n\n4\nPANDAS for Exploratory Data Analysis\nHW 2\n\n\n\n5\nCollecting Data from the Web\nHW 3\n\n\n\n6\nData Wrangling and Cleaning\nHW 4\n\n\n\n7\nMerging, selecting and transforming data\nHW 5\n\n\n\n8\nUsing Simple Machine Learning Methods to Explore Data\nHW 6, Midterm Exam\n\n\n\n9\nEvaluating performance\nProject Draft\n\n\n\n10\nProject Presentation\nFinal Project & Presentation",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Schedule</span>"
     ]
@@ -100,14 +100,47 @@
     ]
   },
   {
-    "objectID": "03-Assignments/hw01.html",
-    "href": "03-Assignments/hw01.html",
-    "title": "HW01",
+    "objectID": "03-Assignments/csc233_hw01.html",
+    "href": "03-Assignments/csc233_hw01.html",
+    "title": "CSC233 HW01",
     "section": "",
-    "text": "https://drive.google.com/file/d/1Ih-HblyS0zAduHUlQfBw4VoeCRx1jyNt/view?usp=sharing",
+    "text": "CSC 233: Assignment 0, Due Jan 8, 2026",
     "crumbs": [
       "Assignments",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>HW01</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>CSC233 HW01</span>"
+    ]
+  },
+  {
+    "objectID": "03-Assignments/csc233_hw01.html#setup-colab-notebook",
+    "href": "03-Assignments/csc233_hw01.html#setup-colab-notebook",
+    "title": "CSC233 HW01",
+    "section": "Setup Colab Notebook",
+    "text": "Setup Colab Notebook\n\nMake a copy of the Colab Notebook template:\n\nhttps://drive.google.com/file/d/1Ih-HblyS0zAduHUlQfBw4VoeCRx1jyNt/view?usp=sharing\n\nRename it with your own name: [Name]_CSC233_Assignment0.ipynb\nFollow the instructions in the Colab Notebook.\n\npresident_heights.csv: https://drive.google.com/file/d/1PC1EDXtvzMqKFuqVHwC6VbVfvG4h6WsQ/view?usp=sharing\n\nShare your notebook with me (doingg@union.edu) as your submission.",
+    "crumbs": [
+      "Assignments",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>CSC233 HW01</span>"
+    ]
+  },
+  {
+    "objectID": "03-Assignments/csc233_hw01.html#runsestone-reading-activities",
+    "href": "03-Assignments/csc233_hw01.html#runsestone-reading-activities",
+    "title": "CSC233 HW01",
+    "section": "Runsestone Reading & Activities",
+    "text": "Runsestone Reading & Activities\n\nEnroll in our Runestone course “How to Think Like a Data Scientist”\n\n\nhttps://runestone.academy/runestone/default/user/register\nyour Union College email\nunioncollege_httlads_winter26 as the course name\nfor review, you may also use the Python course: unioncollege_py4e-int_winter26_da\n\n\nRead and complete the activities for chapters 1 & 4",
+    "crumbs": [
+      "Assignments",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>CSC233 HW01</span>"
+    ]
+  },
+  {
+    "objectID": "03-Assignments/csc233_hw01.html#setup-check-in-notebook",
+    "href": "03-Assignments/csc233_hw01.html#setup-check-in-notebook",
+    "title": "CSC233 HW01",
+    "section": "Setup Check-in Notebook",
+    "text": "Setup Check-in Notebook\n\nMake a copy of the Check-in Notebook template:\n\nhttps://colab.research.google.com/drive/18tnFEURw_emX64WbeCRSaA9nyIsNvVsv?usp=sharing\n\nRename it with your own name: [Name]_CSC233_check-in_template.ipynb\nFollow the instructions in the Colab Notebook.\nShare your notebook with me (doingg@union.edu) as your submission.",
+    "crumbs": [
+      "Assignments",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>CSC233 HW01</span>"
     ]
   }
 ]
