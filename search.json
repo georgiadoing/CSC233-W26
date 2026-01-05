@@ -74,7 +74,7 @@
     "href": "02-Main/resources.html#google-colab-pro",
     "title": "Resources",
     "section": "Google Colab Pro",
-    "text": "Google Colab Pro\n\nPro account sign-up: https://colab.research.google.com/signup\nUse your Union email",
+    "text": "Google Colab Pro\n\nPro account sign-up: https://colab.research.google.com/signup\nUse your Union email\nA pro account is not needed for this course, just an option Union pays for",
     "crumbs": [
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Resources</span>"
     ]
@@ -102,45 +102,45 @@
   {
     "objectID": "03-Assignments/csc233_hw01.html",
     "href": "03-Assignments/csc233_hw01.html",
-    "title": "CSC233 HW01",
+    "title": "CSC233 HW 00",
     "section": "",
     "text": "CSC 233: Assignment 0, Due Jan 8, 2026",
     "crumbs": [
       "Assignments",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>CSC233 HW01</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>CSC233 HW 00</span>"
     ]
   },
   {
-    "objectID": "03-Assignments/csc233_hw01.html#setup-colab-notebook",
-    "href": "03-Assignments/csc233_hw01.html#setup-colab-notebook",
-    "title": "CSC233 HW01",
-    "section": "Setup Colab Notebook",
-    "text": "Setup Colab Notebook\n\nMake a copy of the Colab Notebook template:\n\nhttps://drive.google.com/file/d/1Ih-HblyS0zAduHUlQfBw4VoeCRx1jyNt/view?usp=sharing\n\nRename it with your own name: [Name]_CSC233_Assignment0.ipynb\nFollow the instructions in the Colab Notebook.\n\npresident_heights.csv: https://drive.google.com/file/d/1PC1EDXtvzMqKFuqVHwC6VbVfvG4h6WsQ/view?usp=sharing\n\nShare your notebook with me (doingg@union.edu) as your submission.",
+    "objectID": "03-Assignments/csc233_hw01.html#setup-colab-notebook-2-pts",
+    "href": "03-Assignments/csc233_hw01.html#setup-colab-notebook-2-pts",
+    "title": "CSC233 HW 00",
+    "section": "1. Setup Colab Notebook (2 pts)",
+    "text": "1. Setup Colab Notebook (2 pts)\n\nMake a copy of the Colab Notebook template:\n\nhttps://drive.google.com/file/d/1Ih-HblyS0zAduHUlQfBw4VoeCRx1jyNt/view?usp=sharing\n\nRename it with your own name: [Name]_CSC233_Assignment0.ipynb\nFollow the instructions in the Colab Notebook.\n\npresident_heights.csv: https://drive.google.com/file/d/1PC1EDXtvzMqKFuqVHwC6VbVfvG4h6WsQ/view?usp=sharing\n\nShare your notebook with me (doingg@union.edu) as your submission.",
     "crumbs": [
       "Assignments",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>CSC233 HW01</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>CSC233 HW 00</span>"
     ]
   },
   {
-    "objectID": "03-Assignments/csc233_hw01.html#runsestone-reading-activities",
-    "href": "03-Assignments/csc233_hw01.html#runsestone-reading-activities",
-    "title": "CSC233 HW01",
-    "section": "Runsestone Reading & Activities",
-    "text": "Runsestone Reading & Activities\n\nEnroll in our Runestone course “How to Think Like a Data Scientist”\n\n\nhttps://runestone.academy/runestone/default/user/register\nyour Union College email\nunioncollege_httlads_winter26 as the course name\nfor review, you may also use the Python course: unioncollege_py4e-int_winter26_da\n\n\nRead and complete the activities for chapters 1 & 4",
+    "objectID": "03-Assignments/csc233_hw01.html#runsestone-reading-activities-2-pts",
+    "href": "03-Assignments/csc233_hw01.html#runsestone-reading-activities-2-pts",
+    "title": "CSC233 HW 00",
+    "section": "2. Runsestone Reading & Activities (2 pts)",
+    "text": "2. Runsestone Reading & Activities (2 pts)\n\nEnroll in our Runestone course “How to Think Like a Data Scientist”\n\n\nhttps://runestone.academy/runestone/default/user/register\nyour Union College email\nunioncollege_httlads_winter26 as the course name\nfor review, you may also use the Python course: unioncollege_py4e-int_winter26_da\n\n\nRead and complete the activities for chapters 1 & 4\n\n\nyou do not need to install python or anaconda, you can use Colab.",
     "crumbs": [
       "Assignments",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>CSC233 HW01</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>CSC233 HW 00</span>"
     ]
   },
   {
-    "objectID": "03-Assignments/csc233_hw01.html#setup-check-in-notebook",
-    "href": "03-Assignments/csc233_hw01.html#setup-check-in-notebook",
-    "title": "CSC233 HW01",
-    "section": "Setup Check-in Notebook",
-    "text": "Setup Check-in Notebook\n\nMake a copy of the Check-in Notebook template:\n\nhttps://colab.research.google.com/drive/18tnFEURw_emX64WbeCRSaA9nyIsNvVsv?usp=sharing\n\nRename it with your own name: [Name]_CSC233_check-in_template.ipynb\nFollow the instructions in the Colab Notebook.\nShare your notebook with me (doingg@union.edu) as your submission.",
+    "objectID": "03-Assignments/csc233_hw01.html#setup-check-in-notebook-1-pts",
+    "href": "03-Assignments/csc233_hw01.html#setup-check-in-notebook-1-pts",
+    "title": "CSC233 HW 00",
+    "section": "3. Setup Check-in Notebook (1 pts)",
+    "text": "3. Setup Check-in Notebook (1 pts)\n\nMake a copy of the Check-in Notebook template:\n\nhttps://colab.research.google.com/drive/18tnFEURw_emX64WbeCRSaA9nyIsNvVsv?usp=sharing\n\nRename it with your own name: [Name]_CSC233_check-in_template.ipynb\nFollow the instructions in the Colab Notebook.\nShare your notebook with me (doingg@union.edu) as your submission.",
     "crumbs": [
       "Assignments",
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>CSC233 HW01</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>CSC233 HW 00</span>"
     ]
   }
 ]
