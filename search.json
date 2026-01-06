@@ -90,6 +90,16 @@
     ]
   },
   {
+    "objectID": "02-Main/resources.html#python-style-guide",
+    "href": "02-Main/resources.html#python-style-guide",
+    "title": "Resources",
+    "section": "Python Style Guide",
+    "text": "Python Style Guide\n\nPEP 8\nshould be used in all code cells of Colab notebooks\nLink: https://peps.python.org/pep-0008/",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Resources</span>"
+    ]
+  },
+  {
     "objectID": "02-Main/syllabus.html",
     "href": "02-Main/syllabus.html",
     "title": "Syllabus",
@@ -114,7 +124,7 @@
     "href": "03-Assignments/csc233_hw01.html",
     "title": "CSC233 HW 00",
     "section": "",
-    "text": "CSC 233: Assignment 0, Due Jan 8, 2026",
+    "text": "CSC 233: Assignment 0, Due Jan 13, 2026",
     "crumbs": [
       "Assignments",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>CSC233 HW 00</span>"
