@@ -231,67 +231,67 @@
   {
     "objectID": "03-Assignments/csc233_hw02.html",
     "href": "03-Assignments/csc233_hw02.html",
-    "title": "CSC233 HW 01",
+    "title": "CSC233 HW 02",
     "section": "",
     "text": "CSC 233: Assignment 2, Due Jan 27 2026, by 10 am",
     "crumbs": [
       "Assignments",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>CSC233 HW 01</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>CSC233 HW 02</span>"
     ]
   },
   {
     "objectID": "03-Assignments/csc233_hw02.html#setup-colab-notebook-2-pts",
     "href": "03-Assignments/csc233_hw02.html#setup-colab-notebook-2-pts",
-    "title": "CSC233 HW 01",
+    "title": "CSC233 HW 02",
     "section": "1. Setup Colab Notebook (2 pts)",
     "text": "1. Setup Colab Notebook (2 pts)\n\nMake a copy of the Colab Notebook template:\n\nhttps://drive.google.com/file/d/1qDLg_vi5607bz371OWhqv1ely7NBqaWz/view?usp=sharing\n\nRename it with your own name: [Name]_CSC233_W26_Assignment2.ipynb\nFollow the instructions in the Colab Notebook. Be sure to comment your code and add Markdown cells to document your work.\nShare your notebook with me (doingg@union.edu) as your submission.",
     "crumbs": [
       "Assignments",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>CSC233 HW 01</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>CSC233 HW 02</span>"
     ]
   },
   {
     "objectID": "03-Assignments/csc233_hw02.html#project-data-1-pts",
     "href": "03-Assignments/csc233_hw02.html#project-data-1-pts",
-    "title": "CSC233 HW 01",
+    "title": "CSC233 HW 02",
     "section": "2. Project Data (1 pts)",
-    "text": "2. Project Data (1 pts)\n\nMake a copy of the Project Proposal Notebook template: https://colab.research.google.com/drive/1jSCGEu13RRWJyG-cMt5KmSWa2lVmhVgv?usp=sharing\nExplore 3 data sets from 3 different data sources you might use\n\n\nrecord your data sets/sources, justifications and interest in Markdown cells\nbe sure to include relevent links\ninclude considerations as to the quality and trustworthiness of your sources\nnote that it is OK if your final project does not end up using these exact data sets, but you will at least have these as options",
+    "text": "2. Project Data (1 pts)\n\nMake a copy of the Project Proposal Notebook template: https://colab.research.google.com/drive/1SEylu5xoSB5CgBtghQYB-qL4Xcu_u_sR#scrollTo=6rqIQUhHRUNR\nSave a version of your chosen dataset to your google drive.\nFollow the instructions in the Colab Notebook to load and introduce your data.",
     "crumbs": [
       "Assignments",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>CSC233 HW 01</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>CSC233 HW 02</span>"
     ]
   },
   {
     "objectID": "03-Assignments/csc233_hw02.html#runsestone-reading-activities-4-pts",
     "href": "03-Assignments/csc233_hw02.html#runsestone-reading-activities-4-pts",
-    "title": "CSC233 HW 01",
+    "title": "CSC233 HW 02",
     "section": "3. Runsestone Reading & Activities (4 pts)",
     "text": "3. Runsestone Reading & Activities (4 pts)\n\nRead and complete the activities for chapters 2 & 7",
     "crumbs": [
       "Assignments",
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>CSC233 HW 01</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>CSC233 HW 02</span>"
     ]
   },
   {
     "objectID": "03-Assignments/final_project.html",
     "href": "03-Assignments/final_project.html",
-    "title": "Project",
+    "title": "Final Project",
     "section": "",
     "text": "Project Details\nThe goal of the final project is to show off your analytic skills. That means you need to tell me a story using data. There are VERY loose requirements, listed below. Ultimately, I need to see:\nBOTH are equally valued.\nHere are some tips / thoughts about specifically what I need to see:",
     "crumbs": [
       "Assignments",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Project</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Final Project</span>"
     ]
   },
   {
     "objectID": "03-Assignments/final_project.html#project-details",
     "href": "03-Assignments/final_project.html#project-details",
-    "title": "Project",
+    "title": "Final Project",
     "section": "",
     "text": "your analytic skills (using Python to get, manipulate, analyze and visualize)\nyour story telling skills (how do you use the above, to tell a coherent story using data)\n\n\n\n\nI need to see you use Pandas to do things. That means choosing data (or sets of data) that are NOT already pre-processed, and perfectly packaged. I need to see some (but not all) of merging, joining, creating new columns, selecting columns, changing types of data.\nI need to see visualizations. Don’t just graph everything because you can. Show me things that assist with your story.\nI would like some specific analytics - discussion in combination with analytic approaches - i.e. what features are important for a specific problem, what trends exist in the data and how do you explain them? I’m not looking for you to be right, I’m looking for your story to be well-motivated by data\nNotice I keep saying ‘story’. To tell a story with data REQUIRES that you have a good understanding of the data. To that end I encourage you to choose data, or focus on a problem, about which you ALREADY have some knowledge, or intuition\nYou can find data in all kinds of places on the web. I would focus on CSV data (but you do not have to). You can find useful repositories at data.gov, and kaggle.com, among MANY others. Be cautious about kaggle. I will check to see if others have already performed exactly the analysis you attempt. You certainly don’t have to be completely novel, but I would stay away from extremely popular, heavily used data.\nIt is impossible to give minimum or maximum requirements on data size. However, too little data ( less than 500 instances) leaves little chance for finding useful patterns. Too few attributes (columns, less than 5) means that you either need to merge in complementary data, or create your own additional columns. Conversely too much data (in rows or columns) means that you almost certainly have to START reducing the size of your data.\nI cannot tell you how long your notebook should be. HOWEVER consider the size of the grade which this notebook is worth. It should be CONSIDERABLY more in depth than a weekly assignment.\nI am looking to learn. Part of your grade will be in how well YOU take ME on a journey through data which honestly, at the end, you should understand significantly better than I do. Telling that story is a combination of code (show me results, do not comment out the good stuff) and the write up. This IS part essay, part presentation, part coding exercise.",
     "crumbs": [
       "Assignments",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Project</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Final Project</span>"
     ]
   },
   {
