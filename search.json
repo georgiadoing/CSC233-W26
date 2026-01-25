@@ -304,5 +304,49 @@
       "Weekly Notes",
       "<span class='chapter-number'>10</span>  <span class='chapter-title'>Week 1</span>"
     ]
+  },
+  {
+    "objectID": "04-Notes/week2.html",
+    "href": "04-Notes/week2.html",
+    "title": "Week 2",
+    "section": "",
+    "text": "In-class Colab Notes for Weeks 1 & 2",
+    "crumbs": [
+      "Weekly Notes",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Week 2</span>"
+    ]
+  },
+  {
+    "objectID": "04-Notes/week3.html",
+    "href": "04-Notes/week3.html",
+    "title": "Week 3",
+    "section": "",
+    "text": "In-class Colab Notes for Week 3",
+    "crumbs": [
+      "Weekly Notes",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Week 3</span>"
+    ]
+  },
+  {
+    "objectID": "04-Notes/week4.html",
+    "href": "04-Notes/week4.html",
+    "title": "Week 4",
+    "section": "",
+    "text": "Data Links",
+    "crumbs": [
+      "Weekly Notes",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Week 4</span>"
+    ]
+  },
+  {
+    "objectID": "04-Notes/week4.html#data-links",
+    "href": "04-Notes/week4.html#data-links",
+    "title": "Week 4",
+    "section": "",
+    "text": "course website data path prefix: https://georgiadoing.github.io/CSC233-W26/Data/\nstate_example.csv: https://georgiadoing.github.io/CSC233-W26/Data/state_example.csv",
+    "crumbs": [
+      "Weekly Notes",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Week 4</span>"
+    ]
   }
 ]
