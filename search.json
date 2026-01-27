@@ -14,7 +14,7 @@
     "href": "index.html#announcements",
     "title": "Course: CSC233: Intro to Data Analytics\nDocumentation",
     "section": "Announcements",
-    "text": "Announcements\n\nUpcoming due dates\nNext assignment (HW 01) is due Tuesday Jan 20th before class, at 10 am..\n\n\nOffice Hours\n\nStudent/Office Hours:\n\nSteinmetz 108B\nWednesday 2:00 pm - 3:30 pm\nThursday 4:00 pm - 5:30 pm\nsubject to change, check course website for most up-tp-date schedule\ndrop-in or schedule a 15 minute slot: https://calendar.app.google/8bus6pfDvyphR9ar5\nby appointment for another time or over zoom",
+    "text": "Announcements\n\nUpcoming due dates\nNext assignment (HW 03) is due Tuesday Feb 3rd before class, at 10 am..\n\n\nOffice Hours\n\nStudent/Office Hours:\n\nSteinmetz 108B\nWednesday 2:00 pm - 3:30 pm\nThursday 4:00 pm - 5:30 pm\nsubject to change, check course website for most up-tp-date schedule\ndrop-in or schedule a 15 minute slot: https://calendar.app.google/8bus6pfDvyphR9ar5\nby appointment for another time or over zoom",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Home</span>"
     ]
@@ -275,45 +275,45 @@
   {
     "objectID": "03-Assignments/csc233_hw03.html",
     "href": "03-Assignments/csc233_hw03.html",
-    "title": "CSC233 HW 02",
+    "title": "CSC233 HW 03",
     "section": "",
     "text": "CSC 233: Assignment 3, Due Feb 3 2026, by 10 am",
     "crumbs": [
       "Assignments",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>CSC233 HW 02</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>CSC233 HW 03</span>"
     ]
   },
   {
     "objectID": "03-Assignments/csc233_hw03.html#colab-notebook-4-pts",
     "href": "03-Assignments/csc233_hw03.html#colab-notebook-4-pts",
-    "title": "CSC233 HW 02",
+    "title": "CSC233 HW 03",
     "section": "1. Colab Notebook (4 pts)",
     "text": "1. Colab Notebook (4 pts)\n\nMake a copy of the Colab Notebook template:\n\nhttps://drive.google.com/file/d/1DtoyxEgtP9b08qOj1X6pk-RCZJfRpC4K/view?usp=sharing\n\nRename it with your own name: [Name]_CSC233_W26_Assignment3.ipynb\nFollow the instructions in the Colab Notebook. Be sure to comment your code and add Markdown cells to document your work.\nShare your notebook with me (doingg@union.edu) as your submission.",
     "crumbs": [
       "Assignments",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>CSC233 HW 02</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>CSC233 HW 03</span>"
     ]
   },
   {
     "objectID": "03-Assignments/csc233_hw03.html#project-data-1-pts",
     "href": "03-Assignments/csc233_hw03.html#project-data-1-pts",
-    "title": "CSC233 HW 02",
+    "title": "CSC233 HW 03",
     "section": "2. Project Data (1 pts)",
     "text": "2. Project Data (1 pts)\n\nIn your colab notebook from last week, add a markdown cell with question(s) you want to answer in your project.\n\nThis does not mean the question(s) cannot change or evolve, it is just a starting point. Think about how specific or broad you would like your question(s) to be so that your project has interesting implications but is a reasonable amount of work for this course.",
     "crumbs": [
       "Assignments",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>CSC233 HW 02</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>CSC233 HW 03</span>"
     ]
   },
   {
     "objectID": "03-Assignments/csc233_hw03.html#runsestone-reading-activities-2-pts",
     "href": "03-Assignments/csc233_hw03.html#runsestone-reading-activities-2-pts",
-    "title": "CSC233 HW 02",
+    "title": "CSC233 HW 03",
     "section": "3. Runsestone Reading & Activities (2 pts)",
     "text": "3. Runsestone Reading & Activities (2 pts)\n\nRead and complete the activities for chapter 5\n\nNote that there may be some sub-sections that are old review, feel free to skip them. Also feel free to skip any activities that don’t seem helpful for this class. You are graded on accessing the pages and attempting activities but do not need to engage with every element for your activity to be clear.",
     "crumbs": [
       "Assignments",
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>CSC233 HW 02</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>CSC233 HW 03</span>"
     ]
   },
   {
