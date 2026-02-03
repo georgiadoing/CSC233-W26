@@ -2,7 +2,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Course: CSC233: Intro to Data Analytics\nDocumentation",
+    "title": "Course: CSC233: Intro to Data Analytics Documentation",
     "section": "",
     "text": "Welcome\nThe course website for CSC233, part of the Union College CS curriculum. Here you can find our weekly schedule, assignmnets and resources.",
     "crumbs": [
@@ -12,7 +12,7 @@
   {
     "objectID": "index.html#announcements",
     "href": "index.html#announcements",
-    "title": "Course: CSC233: Intro to Data Analytics\nDocumentation",
+    "title": "Course: CSC233: Intro to Data Analytics Documentation",
     "section": "Announcements",
     "text": "Announcements\nTONIGHT:* Tuesday, February 3, 2026: War Games Film Viewing at 7 PM at Proctors Theatre.., form for tickets (some free, then $7 with Union ID).\n\nOffice Hours\n\nStudent/Office Hours:\n\nSteinmetz 108B\nWednesday 2:00 pm - 3:30 pm\nThursday 4:00 pm - 5:30 pm\nsubject to change, check course website for most up-tp-date schedule\ndrop-in or schedule a 15 minute slot: https://calendar.app.google/8bus6pfDvyphR9ar5\nby appointment for another time or over zoom",
     "crumbs": [
@@ -22,7 +22,7 @@
   {
     "objectID": "index.html#course-description",
     "href": "index.html#course-description",
-    "title": "Course: CSC233: Intro to Data Analytics\nDocumentation",
+    "title": "Course: CSC233: Intro to Data Analytics Documentation",
     "section": "Course Description",
     "text": "Course Description\nData analytics, the process of analyzing, revealing, interpreting and visualizing information concealed inside big data is revolutionizing daily life, as used by companies such as Amazon, Google and Facebook, for the diagnosis of medical conditions or the way medical claims are handled, for investment strategies and real estate pricing, and in academia, with the analysis of historical texts, understanding the deliberations of the Supreme Court or the European Commission, or processing large amounts of genomics data.\nIn this class, students will be introduced to techniques to acquire data from the web, manipulate and pre-process data into manageable forms, perform analyses from a descriptive and predictive standpoint, and learn the basics of visualization of the result, all with a focus on storytelling through data, enhancing data literacy.\nIn this course you will use the Python programming language to scrape web data, prepare data for analysis, analyze to produce explainable results, and visualize those results. Throughout we will discuss the pitfalls, ethics and challenges of working with data. A 1-page schedule-at-a-glance is included at the end of the syllabus.\nThis course requires the pre-approval of the department. For more information, please visit: https://union.edu/advising-registration/pre-approval.",
     "crumbs": [
@@ -317,6 +317,39 @@
     ]
   },
   {
+    "objectID": "03-Assignments/csc233_hw04.html",
+    "href": "03-Assignments/csc233_hw04.html",
+    "title": "CSC233 HW 04",
+    "section": "",
+    "text": "CSC 233: Assignment 4, Due Feb 10 2026, by 10 am",
+    "crumbs": [
+      "Assignments",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>CSC233 HW 04</span>"
+    ]
+  },
+  {
+    "objectID": "03-Assignments/csc233_hw04.html#colab-notebook-4-pts",
+    "href": "03-Assignments/csc233_hw04.html#colab-notebook-4-pts",
+    "title": "CSC233 HW 04",
+    "section": "1. Colab Notebook (4 pts)",
+    "text": "1. Colab Notebook (4 pts)\n\nMake a copy of the Colab Notebook template:\n\nhttps://drive.google.com/file/d/19iSeFxZUavS8MxXz0xE_UAJGfRNnJYOQ/view?usp=sharing\n\nRename it with your own name: [Name]_CSC233_W26_Assignment3.ipynb\nFollow the instructions in the Colab Notebook. Be sure to comment your code and add Markdown cells to document your work.\nShare your notebook with me (doingg@union.edu) as your submission.",
+    "crumbs": [
+      "Assignments",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>CSC233 HW 04</span>"
+    ]
+  },
+  {
+    "objectID": "03-Assignments/csc233_hw04.html#project-question-1-pts",
+    "href": "03-Assignments/csc233_hw04.html#project-question-1-pts",
+    "title": "CSC233 HW 04",
+    "section": "2. Project Question (1 pts)",
+    "text": "2. Project Question (1 pts)\n\nIn your Colab notebook from last week, in response to your feedback from peer review, revise your question. Leave your markdown cell with the question as you posed it last week, but add another cell with a revised question so your drafting/progress is documented.\nAfter re-stating your question, add another markdown cell reflecting on the changes you made and why. In what ways has your question improved?",
+    "crumbs": [
+      "Assignments",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>CSC233 HW 04</span>"
+    ]
+  },
+  {
     "objectID": "03-Assignments/final_project.html",
     "href": "03-Assignments/final_project.html",
     "title": "Final Project",
@@ -324,7 +357,7 @@
     "text": "Project Details\nThe goal of the final project is to show off your analytic skills. That means you need to tell me a story using data. There are VERY loose requirements, listed below. Ultimately, I need to see:\nBOTH are equally valued.\nHere are some tips / thoughts about specifically what I need to see:",
     "crumbs": [
       "Assignments",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Final Project</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Final Project</span>"
     ]
   },
   {
@@ -335,7 +368,7 @@
     "text": "your analytic skills (using Python to get, manipulate, analyze and visualize)\nyour story telling skills (how do you use the above, to tell a coherent story using data)\n\n\n\n\nI need to see you use Pandas to do things. That means choosing data (or sets of data) that are NOT already pre-processed, and perfectly packaged. I need to see some (but not all) of merging, joining, creating new columns, selecting columns, changing types of data.\nI need to see visualizations. Don’t just graph everything because you can. Show me things that assist with your story.\nI would like some specific analytics - discussion in combination with analytic approaches - i.e. what features are important for a specific problem, what trends exist in the data and how do you explain them? I’m not looking for you to be right, I’m looking for your story to be well-motivated by data\nNotice I keep saying ‘story’. To tell a story with data REQUIRES that you have a good understanding of the data. To that end I encourage you to choose data, or focus on a problem, about which you ALREADY have some knowledge, or intuition\nYou can find data in all kinds of places on the web. I would focus on CSV data (but you do not have to). You can find useful repositories at data.gov, and kaggle.com, among MANY others. Be cautious about kaggle. I will check to see if others have already performed exactly the analysis you attempt. You certainly don’t have to be completely novel, but I would stay away from extremely popular, heavily used data.\nIt is impossible to give minimum or maximum requirements on data size. However, too little data ( less than 500 instances) leaves little chance for finding useful patterns. Too few attributes (columns, less than 5) means that you either need to merge in complementary data, or create your own additional columns. Conversely too much data (in rows or columns) means that you almost certainly have to START reducing the size of your data.\nI cannot tell you how long your notebook should be. HOWEVER consider the size of the grade which this notebook is worth. It should be CONSIDERABLY more in depth than a weekly assignment.\nI am looking to learn. Part of your grade will be in how well YOU take ME on a journey through data which honestly, at the end, you should understand significantly better than I do. Telling that story is a combination of code (show me results, do not comment out the good stuff) and the write up. This IS part essay, part presentation, part coding exercise.",
     "crumbs": [
       "Assignments",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Final Project</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Final Project</span>"
     ]
   },
   {
@@ -346,7 +379,7 @@
     "text": "Draft Rubric\n\n\n\n\n\n\n\n\n\n\n\n\nExceeding expectations\nArriving at expectations\nNot meeting Expectations\n\n\n\n\n\nAnalytical / Mathematic\nBroad use of Pandas such as merging, joining, creating new columns, selecting columns, changing types of data.\nSome use (1-2 instances) of Pandas such as selecting data or summarizing columns.\nNo data manipulation using Pandas and/or data sets are pre-processed\n\n\n\n\nVisualizations are chosen carefully in order to convey multiple levels of information.\nSome visualizations\nVisualizations don’t contribute to the story in clear ways.\n\n\n\n\nData selection is from a subject-specific source or is gathered directly.\nData are from a generalist source but are sufficiently large to support conclusions.\nData has been pre-analyzed or is not extensive enough.\n\n\n\n\n\n\n\n\n\n\nCommunication / Storytelling\nWriting builds a convincing story by explaining analysis results, providing interpretation and strong evidence that the data is understood.\nThere’s a story but it is missing pieces: results are partially explain, insufficient evidence that data was understood\nNo discernible story; demonstrates a lack of engagement with the data\n\n\n\n\nAnalysis asks and answers a clearly motivated question.\nA question is posed but no clear answer or larger implications are conveyed\nNo question is posed.\n\n\n\n\n\n\n\n\n\n\nReflective\nStudent thoughtfully identified specific strengths and areas for improvement. A complete picture of the student’s work process with a plan for greater success in the future.\nStudent identified strengths or areas for improvement but lacked specificity or sufficient development in either area. Only a partial picture of the student’s process.\nReflection lacked considerations and areas of improvement, did not incorporate or address suggestions from peer review.",
     "crumbs": [
       "Assignments",
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Final Project</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Final Project</span>"
     ]
   },
   {
@@ -357,7 +390,7 @@
     "text": "Slides from Week 1",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Week 1</span>"
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Week 1</span>"
     ]
   },
   {
@@ -368,7 +401,7 @@
     "text": "In-class Colab Notes for Weeks 1 & 2",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Week 2</span>"
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Week 2</span>"
     ]
   },
   {
@@ -379,7 +412,7 @@
     "text": "In-class Colab Notes for Week 3",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Week 3</span>"
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Week 3</span>"
     ]
   },
   {
@@ -390,7 +423,7 @@
     "text": "Data Links",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Week 4</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Week 4</span>"
     ]
   },
   {
@@ -401,7 +434,7 @@
     "text": "course website data path prefix: https://georgiadoing.github.io/CSC233-W26/Data/\n\navailable datasets:\npresident_heights.csv\nSeattle2014.csv\nstate_example.csv\nEmployee_ID_NAME_One.csv\nEmployee_ID_NAME_Two.csv\nEmployee_ID_SPECIALTY.csv\ntitanic_train.csv\ntime_series.csv\n\nstate_example.csv: https://georgiadoing.github.io/CSC233-W26/Data/state_example.csv",
     "crumbs": [
       "Weekly Notes",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Week 4</span>"
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Week 4</span>"
     ]
   }
 ]
