@@ -508,7 +508,7 @@
     "href": "04-Notes/week4.html",
     "title": "Week 4",
     "section": "",
-    "text": "Data Links\n*In-class notes for Week 4",
+    "text": "Data Links",
     "crumbs": [
       "Weekly Notes",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Week 4</span>"
@@ -519,7 +519,7 @@
     "href": "04-Notes/week4.html#data-links",
     "title": "Week 4",
     "section": "",
-    "text": "course website data path prefix: https://georgiadoing.github.io/CSC233-W26/Data/\n\navailable datasets:\npresident_heights.csv\nSeattle2014.csv\nstate_example.csv\nEmployee_ID_NAME_One.csv\nEmployee_ID_NAME_Two.csv\nEmployee_ID_SPECIALTY.csv\ntitanic_train.csv\ntime_series.csv\n\nstate_example.csv: https://georgiadoing.github.io/CSC233-W26/Data/state_example.csv",
+    "text": "course website data path prefix: https://georgiadoing.github.io/CSC233-W26/Data/\n\navailable datasets:\npresident_heights.csv\nSeattle2014.csv\nstate_example.csv\nEmployee_ID_NAME_One.csv\nEmployee_ID_NAME_Two.csv\nEmployee_ID_SPECIALTY.csv\ntitanic_train.csv\ntime_series.csv\n\nstate_example.csv: https://georgiadoing.github.io/CSC233-W26/Data/state_example.csv\nIn-class notes for Week 4",
     "crumbs": [
       "Weekly Notes",
       "<span class='chapter-number'>17</span>  <span class='chapter-title'>Week 4</span>"
@@ -541,7 +541,7 @@
     "href": "04-Notes/week5.html#in-class-notes",
     "title": "Week 5",
     "section": "In-class notes",
-    "text": "In-class notes\n*In-class notes for Week 5",
+    "text": "In-class notes\n\nIn-class notes for Week 5",
     "crumbs": [
       "Weekly Notes",
       "<span class='chapter-number'>18</span>  <span class='chapter-title'>Week 5</span>"
@@ -552,7 +552,18 @@
     "href": "04-Notes/week6.html",
     "title": "Week 6",
     "section": "",
-    "text": "Library Guide: https://libguides.union.edu/DataDiscovery\nPython Plotting Gallery: https://python-graph-gallery.com/",
+    "text": "In-class notes",
+    "crumbs": [
+      "Weekly Notes",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>Week 6</span>"
+    ]
+  },
+  {
+    "objectID": "04-Notes/week6.html#in-class-notes",
+    "href": "04-Notes/week6.html#in-class-notes",
+    "title": "Week 6",
+    "section": "",
+    "text": "In-class notes for Week 6",
     "crumbs": [
       "Weekly Notes",
       "<span class='chapter-number'>19</span>  <span class='chapter-title'>Week 6</span>"
@@ -563,7 +574,18 @@
     "href": "04-Notes/week7.html",
     "title": "Week 7",
     "section": "",
-    "text": "In-class notes\n*In-class notes for Week 7",
+    "text": "In-class notes",
+    "crumbs": [
+      "Weekly Notes",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>Week 7</span>"
+    ]
+  },
+  {
+    "objectID": "04-Notes/week7.html#in-class-notes",
+    "href": "04-Notes/week7.html#in-class-notes",
+    "title": "Week 7",
+    "section": "",
+    "text": "In-class notes for Week 7",
     "crumbs": [
       "Weekly Notes",
       "<span class='chapter-number'>20</span>  <span class='chapter-title'>Week 7</span>"
@@ -574,7 +596,18 @@
     "href": "04-Notes/week8.html",
     "title": "Week 8",
     "section": "",
-    "text": "In-class notes\n*In-class notes for Week 8",
+    "text": "In-class notes",
+    "crumbs": [
+      "Weekly Notes",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>Week 8</span>"
+    ]
+  },
+  {
+    "objectID": "04-Notes/week8.html#in-class-notes",
+    "href": "04-Notes/week8.html#in-class-notes",
+    "title": "Week 8",
+    "section": "",
+    "text": "In-class notes for Week 8",
     "crumbs": [
       "Weekly Notes",
       "<span class='chapter-number'>21</span>  <span class='chapter-title'>Week 8</span>"
